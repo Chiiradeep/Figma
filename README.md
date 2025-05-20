@@ -35,7 +35,6 @@ Figma
 ## CODE:
 ~~~
 
-~~~
 <div style="width: 393px; height: 852px; background: #D05656; border-radius: 52px"></div>
 <div style="width: 393px; height: 852px; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
   <img style="width: 473px; height: 932px" src="https://via.placeholder.com/473x932" />
@@ -100,8 +99,8 @@ Figma
 </div>
 <img style="width: 352px; height: 53px" src="https://via.placeholder.com/352x53" />
 <div style="width: 290px; height: 131px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 400; line-height: 38.40px; word-wrap: break-word">REGISTERED SUCCESSFULLY</div>
-<div style="width: 278px; height: 129px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 400; line-height: 38.40px; word-wrap: break-word">DEVELOPED BY DINESH S</div>
-
+<div style="width: 278px; height: 129px; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 400; line-height: 38.40px; word-wrap: break-word">DEVELOPED BY CHIIRADEEP R</div>
+~~~
 ## OUTPUT:
 ![alt text](fig.jpg)
 
